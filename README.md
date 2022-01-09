@@ -2,7 +2,7 @@
 
 #Orta Seviye Projeler
 
-1)Shopler Shop ETicaret (JS, Jquery, CSS)
+1) Shopler Shop ETicaret (JS, Jquery, CSS)
 https://github.com/sawacrow/ShoplerShopNewThemeJSON
 
 2) Designer Resume CV (CSS)
