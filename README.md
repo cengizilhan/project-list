@@ -9,7 +9,7 @@ https://github.com/sawacrow/ShoplerShopNewThemeJSON
 https://github.com/sawacrow/DesignerResumeCV
 
 ## Giriş Seviye Projeler
-1) ES6 Modules & Axios Get (JS)
+1) ES6 Modules & Axios (JS)
 https://github.com/sawacrow/patika-dev-odev-pratikler/tree/main/frontend-mid/react-js-odev1
 
 2) The Comfort Zone (CSS-HTML)
