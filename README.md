@@ -1,4 +1,4 @@
-# proje-listesi
+# Proje Listesi
 
 ## Orta Seviye Projeler
 
