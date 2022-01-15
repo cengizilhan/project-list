@@ -15,6 +15,9 @@ https://github.com/sawacrow/patika-dev-odev-pratikler/tree/main/frontend-mid/rea
 2) The Comfort Zone (CSS-HTML)
 https://codepen.io/sawacrow/pen/MWvNbgx
 
+3) Todo App (React.js)
+https://github.com/sawacrow/patika-dev-odev-pratikler/blob/main/frontend-mid/react-js-todo-app/todoapp/README.md
+
 
 ### XD Projeleri
 1) Phonenix Game Store https://xd.adobe.com/view/ead10083-d008-4c07-8248-97f6c7839dc4-bf82/
