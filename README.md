@@ -13,17 +13,18 @@ https://github.com/sawacrow/ShoplerShopNewThemeJSON
 2) Designer Resume CV (CSS)
 https://github.com/sawacrow/DesignerResumeCV
 
+3) The Comfort Zone (CSS-HTML)
+https://codepen.io/sawacrow/pen/MWvNbgx
+
+
 ## Giriş Seviye Projeler
 1) ES6 Modules & Axios (JS)
 https://github.com/sawacrow/patika-dev-odev-pratikler/tree/main/frontend-mid/react-js-odev1
 
-2) The Comfort Zone (CSS-HTML)
-https://codepen.io/sawacrow/pen/MWvNbgx
-
-3) Todo App (React.js)
+2) Todo App (React.js)
 https://github.com/sawacrow/patika-dev-odev-pratikler/blob/main/frontend-mid/react-js-todo-app/todoapp/README.md
 
-4) Weather APP (ReactJS, Tailwind.css)
+3) Weather APP (ReactJS, Tailwind.css)
 https://github.com/sawacrow/React-Weather-Api
 
 
