@@ -13,7 +13,7 @@ https://github.com/sawacrow/ShoplerShopNewThemeJSON
 2) Designer Resume CV (CSS)
 https://github.com/sawacrow/DesignerResumeCV
 
-3) The Comfort Zone (CSS-HTML)
+3) The Comfort Zone (CSS)
 https://codepen.io/sawacrow/pen/MWvNbgx
 
 
