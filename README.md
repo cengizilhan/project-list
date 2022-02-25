@@ -24,7 +24,7 @@ https://github.com/sawacrow/patika-dev-odev-pratikler/tree/main/frontend-mid/rea
 2) Todo App (React.js)
 https://github.com/sawacrow/patika-dev-odev-pratikler/blob/main/frontend-mid/react-js-todo-app/todoapp/README.md
 
-3) Weather APP (ReactJS, Tailwind.css)
+3) Weather APP (React.js, Tailwind.css)
 https://github.com/sawacrow/React-Weather-Api
 
 
