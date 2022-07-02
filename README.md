@@ -5,6 +5,9 @@
 1) Shopler Express API (Express.js, Node.js)
 https://github.com/sawacrow/ExpressApiPublic
 
+2) Glitch Slider (Three.js, OpenGL)
+https://github.com/sawacrow/Distortion-Glitch-Effect-IMGSlider
+
 ## Orta Seviye Projeler
 
 1) Shopler Shop E-Ticaret (JS, Jquery, CSS)
