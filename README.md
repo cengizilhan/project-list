@@ -21,10 +21,8 @@ https://codepen.io/sawacrow/pen/MWvNbgx
 
 
 ## Giriş Seviye Projeler
-1) ES6 Modules & Axios (JS)
-https://github.com/sawacrow/patika-dev-odev-pratikler/tree/main/frontend-mid/react-js-odev1
 
-2) Weather APP (React.js, Tailwind.css)
+1) Weather APP (React.js, Tailwind.css)
 https://github.com/sawacrow/React-Weather-Api
 
 
