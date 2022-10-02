@@ -9,7 +9,7 @@ https://github.com/sawacrow/ExpressApiPublic
 https://github.com/sawacrow/Distortion-Glitch-Effect-IMGSlider
 
 3) Sawacrow Blogger (React.JS, Wordpress API)
-https://github.com/sawacrow/Sawacrow-Blogger/blob/main/README.md
+https://github.com/sawacrow/Sawacrow-Blogger
 
 ## Orta Seviye Projeler
 
