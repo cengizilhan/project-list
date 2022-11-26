@@ -27,6 +27,8 @@ https://codepen.io/sawacrow/pen/MWvNbgx
 
 1) Weather APP (React.js, Tailwind.css)
 https://github.com/sawacrow/React-Weather-Api
+2) Retro Gazete - Son Havadis (Vue.js)
+https://github.com/sawacrow/newspaper-oldish/blob/main/README.md
 
 
 ### XD Projeleri
