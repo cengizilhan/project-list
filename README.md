@@ -35,6 +35,22 @@ https://github.com/sawacrow/React-Weather-Api
 2) Retro Gazete - Son Havadis (Vue.js)
 https://github.com/sawacrow/newspaper-oldish/blob/main/README.md
 
+## Codepen Projeleri - Componentler
+
+1) Animated Swiper Pagination with Progress Indicator
+https://codepen.io/sawacrow/pen/WNKrLVd
+2) Bootstrap 5 Collapse Only One Opened and Never Hide All
+https://codepen.io/sawacrow/pen/NWBxrVN
+3) Pulse Animated SVG File
+https://codepen.io/sawacrow/pen/qByabjx
+4) Hover Trigger Slide Change with Swiper  - Pagination ( Only CSS ) V2
+https://codepen.io/sawacrow/pen/OJwVoPb
+5) Input Autocomplete Div with Only CSS
+https://codepen.io/sawacrow/pen/vYaVVLL
+6) Adaptive Navigation: Modal  for Mobile  and  Dropdown for Desktop
+https://codepen.io/sawacrow/pen/RwBJZoG
+7) GSAP Svg Animation
+https://codepen.io/sawacrow/pen/qByRBMd
 
 ### XD Projeleri
 1) Phonenix Game Store https://xd.adobe.com/view/ead10083-d008-4c07-8248-97f6c7839dc4-bf82/
