@@ -22,10 +22,6 @@ https://github.com/sawacrow/DesignerResumeCV
 3) The Comfort Zone (CSS)
 https://codepen.io/sawacrow/pen/MWvNbgx
 
-4) Hover Trigger Slide Change with Swiper (CSS) \
-https://codepen.io/sawacrow/pen/YzjXwzy  \
-V2 \
-https://codepen.io/sawacrow/pen/OJwVoPb 
 
 
 ## Giriş Seviye Projeler
