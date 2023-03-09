@@ -48,5 +48,16 @@ https://codepen.io/sawacrow/pen/RwBJZoG
 7) GSAP Svg Animation
 https://codepen.io/sawacrow/pen/qByRBMd
 
+## Blog Sayfalarım / Yazılarım
+
+1) Cengiz İlhan - Blog
+https://cengizilhan.com/blog/
+
+2) HTML'de İkon Eklemenin Modern Yöntemleri
+https://tasarlab.com/htmlde-ikon-eklemenin-modern-yontemleri/
+
+3) Nucleo ile Font Dosyası Oluşturmak
+https://tasarlab.com/nucleo-ile-font-dosyasi-olusturmak/
+
 ### XD Projeleri
 1) Phonenix Game Store https://xd.adobe.com/view/ead10083-d008-4c07-8248-97f6c7839dc4-bf82/
