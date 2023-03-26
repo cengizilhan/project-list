@@ -47,6 +47,8 @@ https://codepen.io/sawacrow/pen/vYaVVLL
 https://codepen.io/sawacrow/pen/RwBJZoG
 7) GSAP Svg Animation
 https://codepen.io/sawacrow/pen/qByRBMd
+8) Gsap Video Animation Based By Scroll Progress
+https://codepen.io/sawacrow/pen/qBMxyWR
 
 ## Blog Sayfalarım / Yazılarım
 
