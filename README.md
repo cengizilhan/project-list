@@ -1,5 +1,45 @@
 # Proje Listesi
 
+## Profesyonel Projeler
+
+1) Althuas Yachts
+https://althausyachts.com/
+
+Proje Açıklaması: Lüks yatların satış ve kiralama sisteminin bulunduğu bir proje.
+
+Rolüm: Front-End Developer, UI Tasarım Katkısı
+
+
+Proje Açıklaması: Projede UI tasarım sürecine animasyonlar tarafında front-end developer olarak katkıda bulundum. Figma'da hazırlanan projeyi, SVG, SCSS, GSAP.js kullanarak Responsive ve Pixel perfect olarak HTML-front-end ortamına aktardım. Wordpress developer ve Full stack developer'lara entegre aşamasında UI desteği verdim.
+
+Özellikler:
+
+UI tasarım sürecinde yer aldım ve Figma tasarımlarını HTML/CSS/JS koduna dönüştürdüm.
+Responsive ve Pixel perfect bir UI geliştirdim, tüm ekran boyutlarında kusursuz bir görüntü sağladım.
+Wordpress ve Full-stack developer'ların entegrasyon aşamasında UI desteği sağladım.
+Teknolojiler: HTML, CSS, JavaScript, SVG, SCSS, GSAP.js, Wordpress
+
+Sonuç: Althuas Yacht projesinde UI tasarım sürecine katkıda bulundum ve başarılı bir şekilde projenin front-end kısmını tamamladım.
+
+2) TürkNet Blog
+https://turk.net/blog/
+
+Proje Açıklaması: TürkNet firmasının blog web sitesi için yapılan proje.
+
+Rolüm: Front-End Developer
+
+Proje Açıklaması: TürkNet Blog projesinde figmada hazırlanan UI tasarımını, web standartlarına uygun bir şekilde Frontend ortamına aktardım. Ayrıca, Wordpress developer'a entegre aşamasında gerektiği yerde destek oldum.
+
+Özellikler:
+
+UI tasarımını Frontend ortamına aktardım, web standartlarına uygun bir şekilde kodladım.
+Wordpress developer'a entegre aşamasında yardımcı oldum.
+Projenin zamanında ve kaliteli bir şekilde tamamlanmasına katkı sağladım.
+Teknolojiler: HTML, CSS, SCSS, JavaScript, Wordpress
+
+Sonuç: TürkNet Blog projesinde UI tasarımını Frontend ortamına başarılı bir şekilde aktararak, projenin geliştirilmesine katkı sağladım. Ayrıca, Wordpress developer'a entegre aşamasında da yardımcı oldum. Projenin zamanında ve kaliteli bir şekilde tamamlanmasına katkıda bulundum.Proje Adı: TürkNet Blog Proje Açıklaması: TürkNet firmasının blog web sitesi için yapılan proje. Rolüm: Front-End Developer Proje Açıklaması: TürkNet Blog projesinde figmada hazırlanan UI tasarımını, web standartlarına uygun bir şekilde Frontend ortamına aktardım. Ayrıca, Wordpress developer'a entegre aşamasında gerektiği yerde destek oldum. Özellikler: UI tasarımını Frontend ortamına aktardım, web standartlarına uygun bir şekilde kodladım. Wordpress developer'a entegre aşamasında yardımcı oldum. Projenin zamanında ve kaliteli bir şekilde tamamlanmasına katkı sağladım. Teknolojiler: HTML, CSS, SCSS, JavaScript, Wordpress Sonuç: TürkNet Blog projesinde UI tasarımını Frontend ortamına başarılı bir şekilde aktararak, projenin geliştirilmesine katkı sağladım. Ayrıca, Wordpress developer'a entegre aşamasında da yardımcı oldum. Projenin zamanında ve kaliteli bir şekilde tamamlanmasına katkıda bulundum.
+
+
 ## Üst Seviye Projeler
 
 1) Shopler Express API (Express.js, Node.js)
