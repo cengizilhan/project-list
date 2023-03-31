@@ -71,6 +71,10 @@ https://github.com/sawacrow/React-Weather-Api
 2) Retro Gazete - Son Havadis (Vue.js)
 https://github.com/sawacrow/newspaper-oldish/blob/main/README.md
 
+## Scripts / Libraries
+1) SawaMotion - Animation Helper Script
+https://github.com/sawacrow/SawaMotion
+
 ## Codepen Projeleri - Componentler
 
 1) Animated Swiper Pagination with Progress Indicator
