@@ -77,8 +77,8 @@ https://github.com/sawacrow/SawaMotion
 
 ## Codepen Projeleri - Componentler
 
-1) Animated Swiper Pagination with Progress Indicator
-https://codepen.io/sawacrow/pen/WNKrLVd
+1) Tüm Compoenentler / All Componenets
+https://codepen.io/collection/OLemmY
 2) Bootstrap 5 Collapse Only One Opened and Never Hide All
 https://codepen.io/sawacrow/pen/NWBxrVN
 3) Pulse Animated SVG File
@@ -93,6 +93,8 @@ https://codepen.io/sawacrow/pen/RwBJZoG
 https://codepen.io/sawacrow/pen/qByRBMd
 8) Gsap Video Animation Based By Scroll Progress
 https://codepen.io/sawacrow/pen/qBMxyWR
+9) Animated Swiper Pagination with Progress Indicator
+https://codepen.io/sawacrow/pen/WNKrLVd
 
 ## Blog Sayfalarım / Yazılarım
 
