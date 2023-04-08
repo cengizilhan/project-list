@@ -109,3 +109,9 @@ https://tasarlab.com/nucleo-ile-font-dosyasi-olusturmak/
 
 ### XD Projeleri
 1) Phonenix Game Store https://xd.adobe.com/view/ead10083-d008-4c07-8248-97f6c7839dc4-bf82/
+
+### 3D Modelleme Projeleri
+1) N20 Garage
+https://www.youtube.com/watch?v=5bh7M_B790U&ab_channel=sawacrow
+https://3dwarehouse.sketchup.com/model/0b81080b-ff93-49c9-9b8e-4b8f9cffe615/N20-Garage
+https://www.instagram.com/p/CGcl8N7gV0S/
