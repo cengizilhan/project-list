@@ -111,7 +111,5 @@ https://tasarlab.com/nucleo-ile-font-dosyasi-olusturmak/
 1) Phonenix Game Store https://xd.adobe.com/view/ead10083-d008-4c07-8248-97f6c7839dc4-bf82/
 
 ### 3D Modelleme Projeleri
-1) N20 Garage
-
-https://www.youtube.com/watch?v=5bh7M_B790U&ab_channel=sawacrow
+1) N20 Garage https://www.youtube.com/watch?v=5bh7M_B790U&ab_channel=sawacrow
 
