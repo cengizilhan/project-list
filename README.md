@@ -1,46 +1,47 @@
-# Proje Listesi
+# Project List
 
-## Profesyonel Projeler
+## Professional Projects
 
 1) Althuas Yachts
 https://althausyachts.com/
 
-Proje Açıklaması: Lüks yatların satış ve kiralama sisteminin bulunduğu bir proje.
+Project Description: A project that includes the sales and rental system of luxury yachts.
 
-Rolüm: Front-End Developer, UI Tasarım Katkısı
+Role: Front-End Developer, UI Design Contribution
+
+Project Description: I contributed to the UI design process in the project as a front-end developer in terms of animations. I converted the project prepared in Figma to HTML-front-end environment using SVG, SCSS, GSAP.js to create a responsive and pixel-perfect UI. I provided UI support to Wordpress developers and full-stack developers during the integration phase.
+
+Features:
+
+I was involved in the UI design process and converted Figma designs into HTML/CSS/JS code.
+I developed a responsive and pixel-perfect UI, providing a flawless display on all screen sizes.
+I provided UI support to Wordpress and full-stack developers during the integration phase.
+Technologies: HTML, CSS, JavaScript, SVG, SCSS, GSAP.js, Wordpress
+
+Result: I contributed to the UI design process in the Althuas Yacht project and successfully completed the front-end part of the project.
 
 
-Proje Açıklaması: Projede UI tasarım sürecine animasyonlar tarafında front-end developer olarak katkıda bulundum. Figma'da hazırlanan projeyi, SVG, SCSS, GSAP.js kullanarak Responsive ve Pixel perfect olarak HTML-front-end ortamına aktardım. Wordpress developer ve Full stack developer'lara entegre aşamasında UI desteği verdim.
-
-Özellikler:
-
-UI tasarım sürecinde yer aldım ve Figma tasarımlarını HTML/CSS/JS koduna dönüştürdüm.
-Responsive ve Pixel perfect bir UI geliştirdim, tüm ekran boyutlarında kusursuz bir görüntü sağladım.
-Wordpress ve Full-stack developer'ların entegrasyon aşamasında UI desteği sağladım.
-Teknolojiler: HTML, CSS, JavaScript, SVG, SCSS, GSAP.js, Wordpress
-
-Sonuç: Althuas Yacht projesinde UI tasarım sürecine katkıda bulundum ve başarılı bir şekilde projenin front-end kısmını tamamladım.
-
-2) TürkNet Blog
+2) TurkNet Blog
 https://turk.net/blog/
 
-Proje Açıklaması: TürkNet firmasının blog web sitesi için yapılan proje.
+Project Description: A project made for TurkNet's blog website.
 
-Rolüm: Front-End Developer
+Role: Front-End Developer
 
-Proje Açıklaması: TürkNet Blog projesinde figmada hazırlanan UI tasarımını, web standartlarına uygun bir şekilde Frontend ortamına aktardım. Ayrıca, Wordpress developer'a entegre aşamasında gerektiği yerde destek oldum.
+Project Description: I converted the UI design prepared in Figma for the TurkNet Blog project into the frontend environment in accordance with web standards. Additionally, I provided support where necessary during the integration phase to the Wordpress developer.
 
-Özellikler:
+Features:
 
-UI tasarımını Frontend ortamına aktardım, web standartlarına uygun bir şekilde kodladım.
-Wordpress developer'a entegre aşamasında yardımcı oldum.
-Projenin zamanında ve kaliteli bir şekilde tamamlanmasına katkı sağladım.
-Teknolojiler: HTML, CSS, SCSS, JavaScript, Wordpress
+I converted the UI design to the frontend environment and coded it in accordance with web standards.
+I provided assistance to the Wordpress developer during the integration phase.
+I contributed to the timely and high-quality completion of the project.
+Technologies: HTML, CSS, SCSS, JavaScript, Wordpress
 
-Sonuç: TürkNet Blog projesinde UI tasarımını Frontend ortamına başarılı bir şekilde aktararak, projenin geliştirilmesine katkı sağladım. Ayrıca, Wordpress developer'a entegre aşamasında da yardımcı oldum. Projenin zamanında ve kaliteli bir şekilde tamamlanmasına katkıda bulundum.Proje Adı: TürkNet Blog Proje Açıklaması: TürkNet firmasının blog web sitesi için yapılan proje. Rolüm: Front-End Developer Proje Açıklaması: TürkNet Blog projesinde figmada hazırlanan UI tasarımını, web standartlarına uygun bir şekilde Frontend ortamına aktardım. Ayrıca, Wordpress developer'a entegre aşamasında gerektiği yerde destek oldum. Özellikler: UI tasarımını Frontend ortamına aktardım, web standartlarına uygun bir şekilde kodladım. Wordpress developer'a entegre aşamasında yardımcı oldum. Projenin zamanında ve kaliteli bir şekilde tamamlanmasına katkı sağladım. Teknolojiler: HTML, CSS, SCSS, JavaScript, Wordpress Sonuç: TürkNet Blog projesinde UI tasarımını Frontend ortamına başarılı bir şekilde aktararak, projenin geliştirilmesine katkı sağladım. Ayrıca, Wordpress developer'a entegre aşamasında da yardımcı oldum. Projenin zamanında ve kaliteli bir şekilde tamamlanmasına katkıda bulundum.
+Result: I successfully transferred the UI design to the frontend environment in the TurkNet Blog project, contributing to the development of the project. I also provided support to the Wordpress developer during the integration phase. I contributed to the timely and high-quality completion of the project.
 
 
-## Üst Seviye Projeler
+
+## High-Level Projects
 
 1) Shopler Express API (Express.js, Node.js)
 https://github.com/sawacrow/ExpressApiPublic
@@ -51,7 +52,7 @@ https://github.com/sawacrow/Distortion-Glitch-Effect-IMGSlider
 3) Sawacrow Blogger (React.JS, Wordpress API)
 https://github.com/sawacrow/Sawacrow-Blogger
 
-## Orta Seviye Projeler
+## Medium-Level Projects
 
 1) Shopler Shop E-Ticaret (JS, Jquery, CSS)
 https://github.com/sawacrow/ShoplerShopNewThemeJSON
@@ -64,20 +65,20 @@ https://codepen.io/sawacrow/pen/MWvNbgx
 
 
 
-## Giriş Seviye Projeler
+## Entry-Level Projects
 
 1) Weather APP (React.js, Tailwind.css)
 https://github.com/sawacrow/React-Weather-Api
-2) Retro Gazete - Son Havadis (Vue.js)
+2) Retro News - Son Havadis (Vue.js)
 https://github.com/sawacrow/newspaper-oldish/blob/main/README.md
 
 ## Scripts / Libraries
 1) SawaMotion - Animation Helper Script
 https://github.com/sawacrow/SawaMotion
 
-## Codepen Projeleri - Componentler
+## Codepen Projects - Components
 
-1) Tüm Compoenentler / All Componenets
+1) All Components / All Components
 https://codepen.io/collection/OLemmY
 2) Bootstrap 5 Collapse Only One Opened and Never Hide All
 https://codepen.io/sawacrow/pen/NWBxrVN
@@ -96,20 +97,20 @@ https://codepen.io/sawacrow/pen/qBMxyWR
 9) Animated Swiper Pagination with Progress Indicator
 https://codepen.io/sawacrow/pen/WNKrLVd
 
-## Blog Sayfalarım / Yazılarım
+## Blog Pages / Articles
 
 1) Cengiz İlhan - Blog
 https://cengizilhan.com/blog/
 
-2) HTML'de İkon Eklemenin Modern Yöntemleri
+2) Modern Methods of Adding Icons in HTML
 https://tasarlab.com/htmlde-ikon-eklemenin-modern-yontemleri/
 
-3) Nucleo ile Font Dosyası Oluşturmak
+3) Creating Font Files with Nucleo
 https://tasarlab.com/nucleo-ile-font-dosyasi-olusturmak/
 
-### XD Projeleri
+### XD Projects
 1) Phonenix Game Store https://xd.adobe.com/view/ead10083-d008-4c07-8248-97f6c7839dc4-bf82/
 
-### 3D Modelleme Projeleri
+### 3D Modeling Projects
 1) N20 Garage https://www.youtube.com/watch?v=5bh7M_B790U&ab_channel=sawacrow
 
