@@ -1,45 +1,5 @@
 # Project List
 
-## Professional Projects
-
-1) Althuas Yachts
-https://althausyachts.com/
-
-Project Description: A project that includes the sales and rental system of luxury yachts.
-
-Role: Front-End Developer, UI Design Contribution
-
-Project Description: I contributed to the UI design process in the project as a front-end developer in terms of animations. I converted the project prepared in Figma to HTML-front-end environment using SVG, SCSS, GSAP.js to create a responsive and pixel-perfect UI. I provided UI support to Wordpress developers and full-stack developers during the integration phase.
-
-Features:
-
-I was involved in the UI design process and converted Figma designs into HTML/CSS/JS code.
-I developed a responsive and pixel-perfect UI, providing a flawless display on all screen sizes.
-I provided UI support to Wordpress and full-stack developers during the integration phase.
-Technologies: HTML, CSS, JavaScript, SVG, SCSS, GSAP.js, Wordpress
-
-Result: I contributed to the UI design process in the Althuas Yacht project and successfully completed the front-end part of the project.
-
-
-2) TurkNet Blog
-https://turk.net/blog/
-
-Project Description: A project made for TurkNet's blog website.
-
-Role: Front-End Developer
-
-Project Description: I converted the UI design prepared in Figma for the TurkNet Blog project into the frontend environment in accordance with web standards. Additionally, I provided support where necessary during the integration phase to the Wordpress developer.
-
-Features:
-
-I converted the UI design to the frontend environment and coded it in accordance with web standards.
-I provided assistance to the Wordpress developer during the integration phase.
-I contributed to the timely and high-quality completion of the project.
-Technologies: HTML, CSS, SCSS, JavaScript, Wordpress
-
-Result: I successfully transferred the UI design to the frontend environment in the TurkNet Blog project, contributing to the development of the project. I also provided support to the Wordpress developer during the integration phase. I contributed to the timely and high-quality completion of the project.
-
-
 
 ## High-Level Projects
 
