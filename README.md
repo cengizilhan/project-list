@@ -108,7 +108,7 @@ https://tasarlab.com/htmlde-ikon-eklemenin-modern-yontemleri/
 3) Creating Font Files with Nucleo
 https://tasarlab.com/nucleo-ile-font-dosyasi-olusturmak/
 
-4) Method to make the Input placeholder multi-line
+4) Creating Two-Column Input Placeholders
 https://medium.com/@sawacrow/method-to-make-the-input-placeholder-multi-line-88fffb2485fa
 
 ### XD Projects
