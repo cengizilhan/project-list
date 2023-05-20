@@ -33,8 +33,12 @@ https://github.com/sawacrow/React-Weather-Api
 https://github.com/sawacrow/newspaper-oldish/blob/main/README.md
 
 ## Scripts / Libraries
+
 1) SawaMotion - Animation Helper Script
 https://github.com/sawacrow/SawaMotion
+
+2) Typography SCSS Generator - Figma Plugin
+https://github.com/sawacrow/typograpgy-generator-figma
 
 ## Codepen Projects - Components
 
