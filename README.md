@@ -38,7 +38,7 @@ https://github.com/sawacrow/newspaper-oldish/blob/main/README.md
 https://github.com/sawacrow/SawaMotion
 
 2) Typography SCSS Generator - Figma Plugin
-https://github.com/sawacrow/typograpgy-generator-figma
+https://www.figma.com/community/plugin/1239294154051662580
 
 ## Codepen Projects - Components
 
