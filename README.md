@@ -40,6 +40,9 @@ https://github.com/sawacrow/SawaMotion
 2) Typography SCSS Generator - Figma Plugin
 https://www.figma.com/community/plugin/1239294154051662580
 
+3) Font Calculator - Figma Plugin
+https://www.figma.com/community/plugin/1243685982553847829/Font-Calculator
+
 ## Codepen Projects - Components
 
 1) All Components / All Components
