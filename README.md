@@ -31,6 +31,8 @@ https://codepen.io/sawacrow/pen/MWvNbgx
 https://github.com/sawacrow/React-Weather-Api
 2) Retro News - Son Havadis (Vue.js)
 https://github.com/sawacrow/newspaper-oldish/blob/main/README.md
+3) Products List And Filtering - (React.js / Redux)
+[https://github.com/sawacrow/newspaper-oldish/blob/main/README.md](https://github.com/sawacrow/react-product-list/tree/main)
 
 ## Scripts / Libraries
 
