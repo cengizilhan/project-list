@@ -1,6 +1,6 @@
 # Project List
 
-## Professional Project
+## Professional Projects
 
 1) Linkedin Projects ( Your LinkedIn account bust be logged in)
 https://www.linkedin.com/in/sawacrow/details/projects/
