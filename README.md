@@ -2,7 +2,7 @@
 
 ## Professional Projects
 
-1) Linkedin Projects ( Your LinkedIn account bust be logged in)
+1) Linkedin Projects ( Your LinkedIn account must be logged in)
 https://www.linkedin.com/in/sawacrow/details/projects/
 
 
