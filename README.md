@@ -86,6 +86,9 @@ https://tasarlab.com/nucleo-ile-font-dosyasi-olusturmak/
 4) Creating Two-Column Input Placeholders
 https://medium.com/@sawacrow/method-to-make-the-input-placeholder-multi-line-88fffb2485fa
 
+6) In Responsive Front-end Development – Modern Methods – 1
+https://tasarlab.com/responsive-front-end-gelistirmede-modern-yontemler-1/
+
 ### XD Projects
 1) Phonenix Game Store https://xd.adobe.com/view/ead10083-d008-4c07-8248-97f6c7839dc4-bf82/
 
