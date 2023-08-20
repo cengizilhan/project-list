@@ -98,6 +98,9 @@ https://medium.com/@sawacrow/veri-getirme-ve-doma-yans%C4%B1tma-y%C3%B6ntemleri-
 8) WordPress API Kullanarak Next.js Projesi Yapalım
 https://medium.com/@sawacrow/wordpress-api-kullanarak-next-js-projesi-yapal%C4%B1m-ef009875a45b
 
+9) Javascript’de Url Search Parametrelerini Yönetme
+https://medium.com/@sawacrow/javascriptde-url-search-parametrelerini-y%C3%B6netme-4f742ae875f3
+
 ### XD Projects
 1) Phonenix Game Store https://xd.adobe.com/view/ead10083-d008-4c07-8248-97f6c7839dc4-bf82/
 
