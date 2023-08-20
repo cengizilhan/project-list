@@ -95,6 +95,9 @@ https://tasarlab.com/responsive-front-end-gelistirmede-modern-yontemler-1/
 7) Veri Getirme ve DOM’a Yansıtma Yöntemleri
 https://medium.com/@sawacrow/veri-getirme-ve-doma-yans%C4%B1tma-y%C3%B6ntemleri-4aa94ca6778c
 
+8) WordPress API Kullanarak Next.js Projesi Yapalım
+https://medium.com/@sawacrow/wordpress-api-kullanarak-next-js-projesi-yapal%C4%B1m-ef009875a45b
+
 ### XD Projects
 1) Phonenix Game Store https://xd.adobe.com/view/ead10083-d008-4c07-8248-97f6c7839dc4-bf82/
 
