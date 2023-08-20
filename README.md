@@ -18,6 +18,9 @@ https://github.com/sawacrow/Distortion-Glitch-Effect-IMGSlider
 3) Sawacrow Blogger (React.JS, Wordpress API)
 https://github.com/sawacrow/Sawacrow-Blogger
 
+4) Next JS by Wordpress Rest (Next.JS, WP API & TypeScript)
+https://github.com/sawacrow/nextjs-wordpress-rest/
+
 ## Medium-Level Projects
 
 1) Shopler Shop E-Ticaret (JS, Jquery, CSS)
