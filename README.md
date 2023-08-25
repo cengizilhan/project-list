@@ -26,22 +26,16 @@ https://github.com/sawacrow/nextjs-wordpress-rest/
 1) Shopler Shop E-Ticaret (JS, Jquery, CSS)
 https://github.com/sawacrow/ShoplerShopNewThemeJSON
 
-2) Designer Resume CV (CSS)
-https://github.com/sawacrow/DesignerResumeCV
-
-3) The Comfort Zone (CSS)
-https://codepen.io/sawacrow/pen/MWvNbgx
 
 
 
 ## Entry-Level Projects
 
-1) Weather APP (React.js, Tailwind.css)
-https://github.com/sawacrow/React-Weather-Api
-2) Retro News - Son Havadis (Vue.js)
-https://github.com/sawacrow/newspaper-oldish/blob/main/README.md
-3) Products List And Filtering - (React.js / Redux)
-https://github.com/sawacrow/react-product-list/tree/main
+1) Designer Resume CV (CSS)
+https://github.com/sawacrow/DesignerResumeCV
+
+2) The Comfort Zone (CSS)
+https://codepen.io/sawacrow/pen/MWvNbgx
 
 ## Scripts / Libraries
 
@@ -58,21 +52,19 @@ https://www.figma.com/community/plugin/1243685982553847829/Font-Calculator
 
 1) All Components / All Components
 https://codepen.io/collection/OLemmY
-2) Bootstrap 5 Collapse Only One Opened and Never Hide All
-https://codepen.io/sawacrow/pen/NWBxrVN
-3) Pulse Animated SVG File
+2) Pulse Animated SVG File
 https://codepen.io/sawacrow/pen/qByabjx
-4) Hover Trigger Slide Change with Swiper  - Pagination ( Only CSS ) V2
+3) Hover Trigger Slide Change with Swiper  - Pagination ( Only CSS ) V2
 https://codepen.io/sawacrow/pen/OJwVoPb
-5) Input Autocomplete Div with Only CSS
+4) Input Autocomplete Div with Only CSS
 https://codepen.io/sawacrow/pen/vYaVVLL
-6) Adaptive Navigation: Modal  for Mobile  and  Dropdown for Desktop
+5) Adaptive Navigation: Modal  for Mobile  and  Dropdown for Desktop
 https://codepen.io/sawacrow/pen/RwBJZoG
-7) GSAP Svg Animation
+6) GSAP Svg Animation
 https://codepen.io/sawacrow/pen/qByRBMd
-8) Gsap Video Animation Based By Scroll Progress
+7) Gsap Video Animation Based By Scroll Progress
 https://codepen.io/sawacrow/pen/qBMxyWR
-9) Animated Swiper Pagination with Progress Indicator
+8) Animated Swiper Pagination with Progress Indicator
 https://codepen.io/sawacrow/pen/WNKrLVd
 
 ## Blog Pages / Articles
