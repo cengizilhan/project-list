@@ -67,6 +67,10 @@ https://codepen.io/sawacrow/pen/qBMxyWR
 8) Animated Swiper Pagination with Progress Indicator
 https://codepen.io/sawacrow/pen/WNKrLVd
 
+## Youtube Tutorials
+1) CSS Practices
+https://www.youtube.com/watch?v=w3Vho386cXs&list=PLDUL75YNAMAmEB9RAsLpvJN-Lwra_u-5t&ab_channel=sawacrow
+
 ## Blog Pages / Articles
 
 1) Cengiz İlhan - Blog
