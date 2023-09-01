@@ -33,35 +33,6 @@ https://github.com/sawacrow/DesignerResumeCV
 5) The Comfort Zone (CSS)
 https://codepen.io/sawacrow/pen/MWvNbgx
 
-## Scripts / Libraries
-
-1) SawaMotion - Animation Helper Script
-https://github.com/sawacrow/SawaMotion
-
-2) Typography SCSS Generator - Figma Plugin
-https://www.figma.com/community/plugin/1239294154051662580
-
-3) Font Calculator - Figma Plugin
-https://www.figma.com/community/plugin/1243685982553847829/Font-Calculator
-
-## Codepen Projects - Components
-
-1) All Components / All Components
-https://codepen.io/collection/OLemmY
-2) Pulse Animated SVG File
-https://codepen.io/sawacrow/pen/qByabjx
-3) Hover Trigger Slide Change with Swiper  - Pagination ( Only CSS ) V2
-https://codepen.io/sawacrow/pen/OJwVoPb
-4) Input Autocomplete Div with Only CSS
-https://codepen.io/sawacrow/pen/vYaVVLL
-5) Adaptive Navigation: Modal  for Mobile  and  Dropdown for Desktop
-https://codepen.io/sawacrow/pen/RwBJZoG
-6) GSAP Svg Animation
-https://codepen.io/sawacrow/pen/qByRBMd
-7) Gsap Video Animation Based By Scroll Progress
-https://codepen.io/sawacrow/pen/qBMxyWR
-8) Animated Swiper Pagination with Progress Indicator
-https://codepen.io/sawacrow/pen/WNKrLVd
 
 ## Youtube Tutorials
 1) CSS Practices
@@ -93,8 +64,36 @@ https://medium.com/@sawacrow/wordpress-api-kullanarak-next-js-projesi-yapal%C4%B
 9) Javascript’de Url Search Parametrelerini Yönetme
 https://medium.com/@sawacrow/javascriptde-url-search-parametrelerini-y%C3%B6netme-4f742ae875f3
 
-### XD Projects
-1) Phonenix Game Store https://xd.adobe.com/view/ead10083-d008-4c07-8248-97f6c7839dc4-bf82/
+## Scripts / Libraries
+
+1) SawaMotion - Animation Helper Script
+https://github.com/sawacrow/SawaMotion
+
+2) Typography SCSS Generator - Figma Plugin
+https://www.figma.com/community/plugin/1239294154051662580
+
+3) Font Calculator - Figma Plugin
+https://www.figma.com/community/plugin/1243685982553847829/Font-Calculator
+
+## Codepen Projects - Components
+
+1) All Components / All Components
+https://codepen.io/collection/OLemmY
+2) Pulse Animated SVG File
+https://codepen.io/sawacrow/pen/qByabjx
+3) Hover Trigger Slide Change with Swiper  - Pagination ( Only CSS ) V2
+https://codepen.io/sawacrow/pen/OJwVoPb
+4) Input Autocomplete Div with Only CSS
+https://codepen.io/sawacrow/pen/vYaVVLL
+5) Adaptive Navigation: Modal  for Mobile  and  Dropdown for Desktop
+https://codepen.io/sawacrow/pen/RwBJZoG
+6) GSAP Svg Animation
+https://codepen.io/sawacrow/pen/qByRBMd
+7) Gsap Video Animation Based By Scroll Progress
+https://codepen.io/sawacrow/pen/qBMxyWR
+8) Animated Swiper Pagination with Progress Indicator
+https://codepen.io/sawacrow/pen/WNKrLVd
+
 
 ### 3D Modeling Projects
 1) N20 Garage https://www.youtube.com/watch?v=5bh7M_B790U&ab_channel=sawacrow
