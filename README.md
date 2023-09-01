@@ -7,34 +7,30 @@ https://www.linkedin.com/in/sawacrow/details/projects/
 
 
 
-## High-Level Projects
+## Back-end Projects
 
 1) Shopler Express API (Express.js, Node.js)
 https://github.com/sawacrow/ExpressApiPublic
 
-2) Glitch Slider (Three.js, OpenGL)
-https://github.com/sawacrow/Distortion-Glitch-Effect-IMGSlider
-
-3) Sawacrow Blogger (React.JS, Wordpress API)
-https://github.com/sawacrow/Sawacrow-Blogger
-
-4) Next JS by Wordpress Rest (Next.JS, WP API & TypeScript)
+2) Next JS by Wordpress Rest (Next.JS, WP API & TypeScript)
 https://github.com/sawacrow/nextjs-wordpress-rest/
 
-## Medium-Level Projects
 
-1) Shopler Shop E-Ticaret (JS, Jquery, CSS)
+## Front-end Projects
+
+1) Glitch Slider (Three.js, OpenGL)
+https://github.com/sawacrow/Distortion-Glitch-Effect-IMGSlider
+
+2) Sawacrow Blogger (React.JS, Wordpress API)
+https://github.com/sawacrow/Sawacrow-Blogger
+
+3) Shopler Shop E-Ticaret (JS, Jquery, CSS)
 https://github.com/sawacrow/ShoplerShopNewThemeJSON
 
-
-
-
-## Entry-Level Projects
-
-1) Designer Resume CV (CSS)
+4) Designer Resume CV (CSS)
 https://github.com/sawacrow/DesignerResumeCV
 
-2) The Comfort Zone (CSS)
+5) The Comfort Zone (CSS)
 https://codepen.io/sawacrow/pen/MWvNbgx
 
 ## Scripts / Libraries
