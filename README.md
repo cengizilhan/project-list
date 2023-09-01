@@ -95,6 +95,4 @@ https://codepen.io/sawacrow/pen/qBMxyWR
 https://codepen.io/sawacrow/pen/WNKrLVd
 
 
-### 3D Modeling Projects
-1) N20 Garage https://www.youtube.com/watch?v=5bh7M_B790U&ab_channel=sawacrow
 
