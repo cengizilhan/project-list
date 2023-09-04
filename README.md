@@ -38,6 +38,17 @@ https://codepen.io/sawacrow/pen/MWvNbgx
 1) CSS Practices
 https://www.youtube.com/watch?v=w3Vho386cXs&list=PLDUL75YNAMAmEB9RAsLpvJN-Lwra_u-5t&ab_channel=sawacrow
 
+## Scripts / Libraries
+
+1) SawaMotion - Animation Helper Script
+https://github.com/sawacrow/SawaMotion
+
+2) Typography SCSS Generator - Figma Plugin
+https://www.figma.com/community/plugin/1239294154051662580
+
+3) Font Calculator - Figma Plugin
+https://www.figma.com/community/plugin/1243685982553847829/Font-Calculator
+
 ## Blog Pages / Articles
 
 1) Cengiz İlhan - Blog
@@ -63,17 +74,6 @@ https://medium.com/@sawacrow/wordpress-api-kullanarak-next-js-projesi-yapal%C4%B
 
 9) Javascript’de Url Search Parametrelerini Yönetme
 https://medium.com/@sawacrow/javascriptde-url-search-parametrelerini-y%C3%B6netme-4f742ae875f3
-
-## Scripts / Libraries
-
-1) SawaMotion - Animation Helper Script
-https://github.com/sawacrow/SawaMotion
-
-2) Typography SCSS Generator - Figma Plugin
-https://www.figma.com/community/plugin/1239294154051662580
-
-3) Font Calculator - Figma Plugin
-https://www.figma.com/community/plugin/1243685982553847829/Font-Calculator
 
 ## Codepen Projects - Components
 
