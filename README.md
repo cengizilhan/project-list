@@ -1,10 +1,30 @@
 # Project List
 
+## Youtube Tutorials
+1) CSS Practices
+https://www.youtube.com/watch?v=w3Vho386cXs&list=PLDUL75YNAMAmEB9RAsLpvJN-Lwra_u-5t&ab_channel=sawacrow
+
+## Scripts / Libraries
+
+1) SawaMotion - Animation Helper Script
+https://github.com/sawacrow/SawaMotion
+
+2) Typography SCSS Generator - Figma Plugin
+https://www.figma.com/community/plugin/1239294154051662580
+
+3) Font Calculator - Figma Plugin
+https://www.figma.com/community/plugin/1243685982553847829/Font-Calculator
+
+5) SCSS Mapper
+https://www.npmjs.com/package/scss-mapper
+
+5) Html Gulp Boilerplate
+https://github.com/cengizilhan/HTML-Gulp-Boilerplate-Scss-Gsap.js-Sawacrow-
+
 ## Professional Projects
 
 1) Linkedin Projects ( Your LinkedIn account must be logged in)
 https://www.linkedin.com/in/sawacrow/details/projects/
-
 
 
 ## Back-end Projects
@@ -33,27 +53,6 @@ https://github.com/sawacrow/DesignerResumeCV
 5) The Comfort Zone (CSS)
 https://codepen.io/sawacrow/pen/MWvNbgx
 
-
-## Youtube Tutorials
-1) CSS Practices
-https://www.youtube.com/watch?v=w3Vho386cXs&list=PLDUL75YNAMAmEB9RAsLpvJN-Lwra_u-5t&ab_channel=sawacrow
-
-## Scripts / Libraries
-
-1) SawaMotion - Animation Helper Script
-https://github.com/sawacrow/SawaMotion
-
-2) Typography SCSS Generator - Figma Plugin
-https://www.figma.com/community/plugin/1239294154051662580
-
-3) Font Calculator - Figma Plugin
-https://www.figma.com/community/plugin/1243685982553847829/Font-Calculator
-
-5) SCSS Mapper
-https://www.npmjs.com/package/scss-mapper
-
-5) Html Gulp Boilerplate
-https://github.com/cengizilhan/HTML-Gulp-Boilerplate-Scss-Gsap.js-Sawacrow-
 
 ## Blog Pages / Articles
 
