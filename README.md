@@ -65,25 +65,28 @@ https://medium.com/@sawacrow/javascript-bellek-y%C3%B6netimi-heap-ve-stack-optim
 3) Odak: Task Değiştirme Kaosunu Yönetme
 https://medium.com/@sawacrow/odak-task-de%C4%9Fi%C5%9Ftirme-kaosunu-y%C3%B6netme-d4d8dee61adb
 
-4) Modern Methods of Adding Icons in HTML
+5) Before / After Nedir ve Hangi Durumlarda Kullanılır?
+https://medium.com/@sawacrow/before-after-nedir-ve-hangi-durumlarda-kullan%C4%B1l%C4%B1r-002633bab249
+
+6) Modern Methods of Adding Icons in HTML
 https://tasarlab.com/htmlde-ikon-eklemenin-modern-yontemleri/
 
-5) Creating Font Files with Nucleo
+7) Creating Font Files with Nucleo
 https://tasarlab.com/nucleo-ile-font-dosyasi-olusturmak/
 
-6) Creating Two-Column Input Placeholders
+8) Creating Two-Column Input Placeholders
 https://medium.com/@sawacrow/method-to-make-the-input-placeholder-multi-line-88fffb2485fa
 
-7) In Responsive Front-end Development – Modern Methods – 1
+9) In Responsive Front-end Development – Modern Methods – 1
 https://tasarlab.com/responsive-front-end-gelistirmede-modern-yontemler-1/
 
-8) Veri Getirme ve DOM’a Yansıtma Yöntemleri
+10) Veri Getirme ve DOM’a Yansıtma Yöntemleri
 https://medium.com/@sawacrow/veri-getirme-ve-doma-yans%C4%B1tma-y%C3%B6ntemleri-4aa94ca6778c
 
-9) WordPress API Kullanarak Next.js Projesi Yapalım
+11) WordPress API Kullanarak Next.js Projesi Yapalım
 https://medium.com/@sawacrow/wordpress-api-kullanarak-next-js-projesi-yapal%C4%B1m-ef009875a45b
 
-10) Javascript’de Url Search Parametrelerini Yönetme
+12) Javascript’de Url Search Parametrelerini Yönetme
 https://medium.com/@sawacrow/javascriptde-url-search-parametrelerini-y%C3%B6netme-4f742ae875f3
 
 ## Codepen Projects - Components
