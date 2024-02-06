@@ -51,10 +51,13 @@ https://github.com/sawacrow/Sawacrow-Blogger
 3) Shopler Shop E-Ticaret (JS, Jquery, CSS)
 https://github.com/sawacrow/ShoplerShopNewThemeJSON
 
-4) Designer Resume CV (CSS)
+4) 2024 Developer Salary Survey Results / 2024 Yazilimci Maaş Anketi Sonuçları
+https://github.com/cengizilhan/2024-yazilim-maas
+
+6) Designer Resume CV (CSS)
 https://github.com/sawacrow/DesignerResumeCV
 
-5) The Comfort Zone (CSS)
+7) The Comfort Zone (CSS)
 https://codepen.io/sawacrow/pen/MWvNbgx
 
 
