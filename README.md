@@ -10,14 +10,14 @@ https://www.youtube.com/watch?v=w3Vho386cXs&list=PLDUL75YNAMAmEB9RAsLpvJN-Lwra_u
 
 ## Scripts / Libraries
 
-1) SawaMotion - Animation Helper Script
-https://github.com/sawacrow/SawaMotion
-
-2) Typography SCSS Generator - Figma Plugin
+1) Typography SCSS Generator - Figma Plugin
 https://www.figma.com/community/plugin/1239294154051662580
 
-3) Font Calculator - Figma Plugin
+2) Font Calculator - Figma Plugin
 https://www.figma.com/community/plugin/1243685982553847829/Font-Calculator
+
+3) SawaMotion - Animation Helper Script
+https://github.com/sawacrow/SawaMotion
 
 5) SCSS Mapper
 https://www.npmjs.com/package/scss-mapper
