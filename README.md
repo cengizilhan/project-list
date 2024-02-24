@@ -1,13 +1,5 @@
 # Project List
 
-## Chrome Extensions
-1) Image Fixer
-https://chromewebstore.google.com/detail/image-fixer-instantly-rep/plgcacjbflgmfgklldoliolleahhlgag
-
-## Youtube Tutorials
-1) CSS Practices
-https://www.youtube.com/watch?v=w3Vho386cXs&list=PLDUL75YNAMAmEB9RAsLpvJN-Lwra_u-5t&ab_channel=sawacrow
-
 ## Scripts / Libraries
 
 1) Typography SCSS Generator - Figma Plugin
@@ -24,6 +16,15 @@ https://www.npmjs.com/package/scss-mapper
 
 5) Html Gulp Boilerplate
 https://github.com/cengizilhan/HTML-Gulp-Boilerplate-Scss-Gsap.js-Sawacrow-
+
+## Chrome Extensions
+1) Image Fixer
+https://chromewebstore.google.com/detail/image-fixer-instantly-rep/plgcacjbflgmfgklldoliolleahhlgag
+
+## Youtube Tutorials
+1) CSS Practices
+https://www.youtube.com/watch?v=w3Vho386cXs&list=PLDUL75YNAMAmEB9RAsLpvJN-Lwra_u-5t&ab_channel=sawacrow
+
 
 ## Professional Projects
 
