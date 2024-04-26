@@ -1,5 +1,13 @@
 # Project List
 
+## Professional Projects & Portfolio on Youtube
+
+1) Linkedin Projects ( Your LinkedIn account must be logged in)
+https://www.linkedin.com/in/sawacrow/details/projects/
+
+2) Linkedin Project on Youtube 
+https://www.youtube.com/watch?v=kA2CS5G1-zg&list=PLDUL75YNAMAkIO5Tpc1ow2v5oygV42Okj
+
 ## Scripts / Libraries
 
 1) Typography SCSS Generator - Figma Plugin
@@ -24,12 +32,6 @@ https://chromewebstore.google.com/detail/image-fixer-instantly-rep/plgcacjbflgmf
 ## Youtube Tutorials
 1) CSS Practices
 https://www.youtube.com/watch?v=w3Vho386cXs&list=PLDUL75YNAMAmEB9RAsLpvJN-Lwra_u-5t&ab_channel=sawacrow
-
-
-## Professional Projects
-
-1) Linkedin Projects ( Your LinkedIn account must be logged in)
-https://www.linkedin.com/in/sawacrow/details/projects/
 
 
 ## Back-end Projects
