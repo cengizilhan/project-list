@@ -3,7 +3,7 @@
 ## Professional Projects & Portfolio on Youtube
 
 1) Linkedin Projects ( Your LinkedIn account must be logged in)
-https://www.linkedin.com/in/sawacrow/details/projects/
+https://www.linkedin.com/in/cengizilhan/details/projects/
 
 2) Linkedin Projects on Youtube 
 https://www.youtube.com/watch?v=kA2CS5G1-zg&list=PLDUL75YNAMAkIO5Tpc1ow2v5oygV42Okj
