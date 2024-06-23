@@ -8,6 +8,16 @@ https://www.linkedin.com/in/cengizilhan/details/projects/
 2) Linkedin Projects on Youtube 
 https://www.youtube.com/watch?v=kA2CS5G1-zg&list=PLDUL75YNAMAkIO5Tpc1ow2v5oygV42Okj
 
+## Npmjs libraries
+1) Copy Paste Detector
+https://www.npmjs.com/package/copy-paste-detector-js
+
+2) Webpack Error 2 Json
+https://www.npmjs.com/package/webpack-error2json
+
+3) SCSS Mapper
+https://www.npmjs.com/package/scss-mapper
+
 ## Scripts / Libraries
 
 1) Typography SCSS Generator - Figma Plugin
@@ -19,11 +29,10 @@ https://www.figma.com/community/plugin/1243685982553847829/Font-Calculator
 3) SawaMotion - Animation Helper Script
 https://github.com/sawacrow/SawaMotion
 
-5) SCSS Mapper
-https://www.npmjs.com/package/scss-mapper
-
-5) Html Gulp Boilerplate
+4) Html Gulp Boilerplate
 https://github.com/cengizilhan/HTML-Gulp-Boilerplate-Scss-Gsap.js-Sawacrow-
+
+
 
 ## Chrome Extensions
 1) Image Fixer
