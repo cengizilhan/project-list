@@ -12,7 +12,10 @@ https://www.npmjs.com/package/copy-paste-detector-js
 2) Webpack Error 2 Json
 https://www.npmjs.com/package/webpack-error2json
 
-3) SCSS Mapper
+3) Css Reference Finder
+https://www.npmjs.com/package/css-reference-finder
+
+4) SCSS Mapper
 https://www.npmjs.com/package/scss-mapper
 
 ## Scripts / Libraries
