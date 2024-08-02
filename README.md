@@ -5,6 +5,23 @@
 1) Linkedin Projects ( Your LinkedIn account must be logged in)
 https://www.linkedin.com/in/cengizilhan/details/projects/
 
+## Scripts / Libraries
+
+1) Webpack Boilerplate
+https://github.com/cengizilhan/webpack-boilerplate-seperate-js-scss
+
+2) Typography SCSS Generator - Figma Plugin
+https://www.figma.com/community/plugin/1239294154051662580
+
+3) Font Calculator - Figma Plugin
+https://www.figma.com/community/plugin/1243685982553847829/Font-Calculator
+
+4) SawaMotion - Animation Helper Script
+https://github.com/sawacrow/SawaMotion
+
+5) Html Gulp Boilerplate
+https://github.com/cengizilhan/HTML-Gulp-Boilerplate-Scss-Gsap.js-Sawacrow-
+
 ## Npmjs Libraries
 1) Copy Paste Detector
 https://www.npmjs.com/package/copy-paste-detector-js
@@ -21,21 +38,6 @@ https://www.npmjs.com/package/css-reference-finder
 
 6) SCSS Mapper
 https://www.npmjs.com/package/scss-mapper
-
-## Scripts / Libraries
-
-1) Typography SCSS Generator - Figma Plugin
-https://www.figma.com/community/plugin/1239294154051662580
-
-2) Font Calculator - Figma Plugin
-https://www.figma.com/community/plugin/1243685982553847829/Font-Calculator
-
-3) SawaMotion - Animation Helper Script
-https://github.com/sawacrow/SawaMotion
-
-4) Html Gulp Boilerplate
-https://github.com/cengizilhan/HTML-Gulp-Boilerplate-Scss-Gsap.js-Sawacrow-
-
 
 
 ## Chrome Extensions
