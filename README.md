@@ -30,8 +30,7 @@ https://www.npmjs.com/package/copy-paste-detector-js
 https://www.npmjs.com/package/webpack-error2json
 
 3) Webpack Concatjs Plugin
-[https://www.npmjs.com/package/scss-mapper
-](https://www.npmjs.com/package/webpack-concatjs-plugin)
+https://www.npmjs.com/package/webpack-concatjs-plugin
 
 5) Css Reference Finder
 https://www.npmjs.com/package/css-reference-finder
