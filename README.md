@@ -23,19 +23,20 @@ https://github.com/sawacrow/SawaMotion
 https://github.com/cengizilhan/HTML-Gulp-Boilerplate-Scss-Gsap.js-Sawacrow-
 
 ## Npmjs Libraries
-1) Copy Paste Detector
-https://www.npmjs.com/package/copy-paste-detector-js
 
-2) Webpack Error 2 Json
-https://www.npmjs.com/package/webpack-error2json
-
-3) Webpack Concatjs Plugin
+1) Webpack Concatjs Plugin
 https://www.npmjs.com/package/webpack-concatjs-plugin
 
-5) Css Reference Finder
+2) Copy Paste Detector
+https://www.npmjs.com/package/copy-paste-detector-js
+
+3) Webpack Error 2 Json
+https://www.npmjs.com/package/webpack-error2json
+
+4) Css Reference Finder
 https://www.npmjs.com/package/css-reference-finder
 
-6) SCSS Mapper
+5) SCSS Mapper
 https://www.npmjs.com/package/scss-mapper
 
 
