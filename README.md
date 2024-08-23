@@ -16,10 +16,7 @@ https://www.figma.com/community/plugin/1239294154051662580
 3) Font Calculator - Figma Plugin
 https://www.figma.com/community/plugin/1243685982553847829/Font-Calculator
 
-4) SawaMotion - Animation Helper Script
-https://github.com/sawacrow/SawaMotion
-
-5) Html Gulp Boilerplate
+4) Html Gulp Boilerplate
 https://github.com/cengizilhan/HTML-Gulp-Boilerplate-Scss-Gsap.js-Sawacrow-
 
 ## Npmjs Libraries
