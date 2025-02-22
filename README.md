@@ -81,7 +81,7 @@ https://codepen.io/sawacrow/pen/MWvNbgx
 ## Blog Pages / Articles
 
 1) Blog / Medium
-https://medium.com/@sawacrow
+[https://medium.com/@sawacrow](https://medium.com/@cngzilhn)
 
 2) Text Styles Best Practice | Typography SCSS File Structure ( 2.400+ Views )
 https://medium.com/@cngzilhn/text-styles-best-practice-typography-scss-file-structure-24e8074ebfb4
