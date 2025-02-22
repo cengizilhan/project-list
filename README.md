@@ -7,11 +7,13 @@ https://www.linkedin.com/in/cengizilhan/details/projects/
 
 ## Scripts / Libraries
 
-1) Webpack Boilerplate
+1) Typography SCSS Generator - Figma Plugin
+https://www.figma.com/community/plugin/1239294154051662580 ( 1500+ Users )
+- https://github.com/cengizilhan/Typography-SCSS-Generator
+
+2) Webpack Boilerplate
 https://github.com/cengizilhan/webpack-boilerplate-seperate-js-scss
 
-2) Typography SCSS Generator - Figma Plugin
-https://www.figma.com/community/plugin/1239294154051662580 - https://github.com/cengizilhan/Typography-SCSS-Generator
 
 3) Font Calculator - Figma Plugin
 https://www.figma.com/community/plugin/1243685982553847829/Font-Calculator
