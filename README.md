@@ -38,6 +38,45 @@ https://www.npmjs.com/package/css-reference-finder
 https://www.npmjs.com/package/scss-mapper
 
 
+
+## Blog Pages / Articles
+
+1) Blog / Medium
+[https://medium.com/@sawacrow](https://medium.com/@cngzilhn)
+
+2) Text Styles Best Practice | Typography SCSS File Structure ( **2.400+ Views** )
+https://medium.com/@cngzilhn/text-styles-best-practice-typography-scss-file-structure-24e8074ebfb4
+
+4) JavaScript Bellek Yönetimi: Heap ve Stack Optimizasyonu
+https://medium.com/@sawacrow/javascript-bellek-y%C3%B6netimi-heap-ve-stack-optimizasyonu-8606d66f3c10
+
+5) Odak: Task Değiştirme Kaosunu Yönetme
+https://medium.com/@sawacrow/odak-task-de%C4%9Fi%C5%9Ftirme-kaosunu-y%C3%B6netme-d4d8dee61adb
+
+6) Before / After Nedir ve Hangi Durumlarda Kullanılır?
+https://medium.com/@sawacrow/before-after-nedir-ve-hangi-durumlarda-kullan%C4%B1l%C4%B1r-002633bab249
+
+7) Modern Methods of Adding Icons in HTML
+https://tasarlab.com/htmlde-ikon-eklemenin-modern-yontemleri/
+
+8) Creating Font Files with Nucleo
+https://tasarlab.com/nucleo-ile-font-dosyasi-olusturmak/
+
+9) Creating Two-Column Input Placeholders
+https://medium.com/@sawacrow/method-to-make-the-input-placeholder-multi-line-88fffb2485fa
+
+10) In Responsive Front-end Development – Modern Methods – 1
+https://tasarlab.com/responsive-front-end-gelistirmede-modern-yontemler-1/
+
+11) Veri Getirme ve DOM’a Yansıtma Yöntemleri
+https://medium.com/@sawacrow/veri-getirme-ve-doma-yans%C4%B1tma-y%C3%B6ntemleri-4aa94ca6778c
+
+12) WordPress API Kullanarak Next.js Projesi Yapalım
+https://medium.com/@sawacrow/wordpress-api-kullanarak-next-js-projesi-yapal%C4%B1m-ef009875a45b
+
+13) Javascript’de Url Search Parametrelerini Yönetme
+https://medium.com/@sawacrow/javascriptde-url-search-parametrelerini-y%C3%B6netme-4f742ae875f3
+
 ## Chrome Extensions
 1) Image Fixer
 https://chromewebstore.google.com/detail/image-fixer-instantly-rep/plgcacjbflgmfgklldoliolleahhlgag
@@ -77,43 +116,6 @@ https://github.com/sawacrow/DesignerResumeCV
 https://codepen.io/sawacrow/pen/MWvNbgx
 
 
-## Blog Pages / Articles
-
-1) Blog / Medium
-[https://medium.com/@sawacrow](https://medium.com/@cngzilhn)
-
-2) Text Styles Best Practice | Typography SCSS File Structure ( **2.400+ Views** )
-https://medium.com/@cngzilhn/text-styles-best-practice-typography-scss-file-structure-24e8074ebfb4
-
-4) JavaScript Bellek Yönetimi: Heap ve Stack Optimizasyonu
-https://medium.com/@sawacrow/javascript-bellek-y%C3%B6netimi-heap-ve-stack-optimizasyonu-8606d66f3c10
-
-5) Odak: Task Değiştirme Kaosunu Yönetme
-https://medium.com/@sawacrow/odak-task-de%C4%9Fi%C5%9Ftirme-kaosunu-y%C3%B6netme-d4d8dee61adb
-
-6) Before / After Nedir ve Hangi Durumlarda Kullanılır?
-https://medium.com/@sawacrow/before-after-nedir-ve-hangi-durumlarda-kullan%C4%B1l%C4%B1r-002633bab249
-
-7) Modern Methods of Adding Icons in HTML
-https://tasarlab.com/htmlde-ikon-eklemenin-modern-yontemleri/
-
-8) Creating Font Files with Nucleo
-https://tasarlab.com/nucleo-ile-font-dosyasi-olusturmak/
-
-9) Creating Two-Column Input Placeholders
-https://medium.com/@sawacrow/method-to-make-the-input-placeholder-multi-line-88fffb2485fa
-
-10) In Responsive Front-end Development – Modern Methods – 1
-https://tasarlab.com/responsive-front-end-gelistirmede-modern-yontemler-1/
-
-11) Veri Getirme ve DOM’a Yansıtma Yöntemleri
-https://medium.com/@sawacrow/veri-getirme-ve-doma-yans%C4%B1tma-y%C3%B6ntemleri-4aa94ca6778c
-
-12) WordPress API Kullanarak Next.js Projesi Yapalım
-https://medium.com/@sawacrow/wordpress-api-kullanarak-next-js-projesi-yapal%C4%B1m-ef009875a45b
-
-13) Javascript’de Url Search Parametrelerini Yönetme
-https://medium.com/@sawacrow/javascriptde-url-search-parametrelerini-y%C3%B6netme-4f742ae875f3
 
 ## Codepen Projects - Components
 
