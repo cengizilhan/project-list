@@ -1,6 +1,6 @@
 # Project List
 
-## Professional Projects
+## Enterprise-Grade Projects 
 
 1) Linkedin Projects ( Your LinkedIn account must be logged in)
 https://www.linkedin.com/in/cengizilhan/details/projects/
