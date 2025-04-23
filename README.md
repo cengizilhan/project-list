@@ -44,8 +44,11 @@ https://www.npmjs.com/package/scss-mapper
 1) Blog / Medium
 [https://medium.com/@sawacrow](https://medium.com/@cngzilhn)
 
-2) Text Styles Best Practice | Typography SCSS File Structure ( **2.400+ Views** )
+2) Text Styles Best Practice | Typography SCSS File Structure ( **2.700+ Views** )
 https://medium.com/@cngzilhn/text-styles-best-practice-typography-scss-file-structure-24e8074ebfb4
+
+3) Why --env Parameters Get Ignored in CI/CD npm Scripts — and How to Fix It
+https://medium.com/@cngzilhn/why-env-parameters-get-ignored-in-ci-cd-npm-scripts-and-how-to-fix-it-64a186d1be5a
 
 4) JavaScript Bellek Yönetimi: Heap ve Stack Optimizasyonu
 https://medium.com/@sawacrow/javascript-bellek-y%C3%B6netimi-heap-ve-stack-optimizasyonu-8606d66f3c10
