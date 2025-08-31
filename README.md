@@ -22,7 +22,7 @@ https://github.com/cengizilhan/HTML-Gulp-Boilerplate-Scss-Gsap.js-Sawacrow-
 
 ## Npmjs Libraries
 
-1) Webpack Concatjs Plugin  [( **800+ downloads** )](https://npm-stat.com/charts.html?package=webpack-concatjs-plugin)
+1) Webpack Concatjs Plugin  **800+ downloads** [( )](https://npm-stat.com/charts.html?package=webpack-concatjs-plugin)
 https://www.npmjs.com/package/webpack-concatjs-plugin 
 
 2) Copy Paste Detector
