@@ -103,7 +103,7 @@ https://github.com/sawacrow/nextjs-wordpress-rest/
 1) Glitch Slider (Three.js, OpenGL)
 https://github.com/sawacrow/Distortion-Glitch-Effect-IMGSlider
 
-2) 2024 Developer Salary Survey Results / 2024 Yazilimci Maaş Anketi Sonuçları ( Vue.js, Tabulator.js )
+2) 2024 Developer Salary Survey Results / 2024 Yazilimci Maaş Anketi Sonuçları ( Vue.JS, Tabulator.JS )
 https://github.com/cengizilhan/2024-yazilim-maas
 
 3) Sawacrow Blogger (React.JS, Wordpress API)
