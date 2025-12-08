@@ -91,10 +91,10 @@ https://www.youtube.com/watch?v=w3Vho386cXs&list=PLDUL75YNAMAmEB9RAsLpvJN-Lwra_u
 
 ## Back-end Projects
 
-1) Shopler Express API (Express.js, Node.js)
+1) Shopler Express API 2022 (Express.js, Node.js)
 https://github.com/sawacrow/ExpressApiPublic
 
-2) Next JS by Wordpress Rest (Next.JS, WP API & TypeScript)
+2) Next JS by Wordpress Rest 2023 (Next.JS, WP API & TypeScript)
 https://github.com/sawacrow/nextjs-wordpress-rest/
 
 
@@ -106,7 +106,7 @@ https://github.com/sawacrow/Distortion-Glitch-Effect-IMGSlider
 2) 2024 Developer Salary Survey Results / 2024 Yazilimci Maaş Anketi Sonuçları ( Vue.JS, Tabulator.JS )
 https://github.com/cengizilhan/2024-yazilim-maas
 
-3) Sawacrow Blogger (React.JS, Wordpress API)
+3) Sawacrow Blogger 2022 (React.JS, Wordpress API)
 https://github.com/sawacrow/Sawacrow-Blogger
 
 4) Shopler Shop E-Commerce 2021 (JS, Jquery, CSS) 
