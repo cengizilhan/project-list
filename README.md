@@ -109,7 +109,7 @@ https://github.com/cengizilhan/2024-yazilim-maas
 3) Sawacrow Blogger (React.JS, Wordpress API)
 https://github.com/sawacrow/Sawacrow-Blogger
 
-4) Shopler Shop E-Ticaret (JS, Jquery, CSS)
+4) Shopler Shop E-Commerce 2021 (JS, Jquery, CSS) 
 https://github.com/sawacrow/ShoplerShopNewThemeJSON
 
 5) Designer Resume CV (CSS)
