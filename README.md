@@ -7,8 +7,8 @@ https://www.linkedin.com/in/cengizilhan/details/projects/
 
 ## Scripts / Libraries
 
-1) Typography SCSS Generator - Figma Plugin
-https://www.figma.com/community/plugin/1239294154051662580 ( **1800+ Users** )
+1) Typography SCSS Generator - Figma Plugin  ( **1800+ Users** )
+https://www.figma.com/community/plugin/1239294154051662580
 - https://github.com/cengizilhan/Typography-SCSS-Generator
 
 2) Webpack Boilerplate
