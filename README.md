@@ -100,22 +100,25 @@ https://github.com/sawacrow/nextjs-wordpress-rest/
 
 ## Front-end Projects
 
-1) Glitch Slider (Three.js, OpenGL)
+1) E-Commerce 2026 ( Angular )
+https://github.com/cengizilhan/ecommorce-angular-public
+
+2) Glitch Slider (Three.js, OpenGL)
 https://github.com/sawacrow/Distortion-Glitch-Effect-IMGSlider
 
-2) 2024 Developer Salary Survey Results / 2024 Yazilimci Maaş Anketi Sonuçları ( Vue.JS, Tabulator.JS )
+3) 2024 Developer Salary Survey Results / 2024 Yazilimci Maaş Anketi Sonuçları ( Vue.JS, Tabulator.JS )
 https://github.com/cengizilhan/2024-yazilim-maas
 
-3) Sawacrow Blogger 2022 (React.JS, Wordpress API)
+4) Sawacrow Blogger 2022 (React.JS, Wordpress API)
 https://github.com/sawacrow/Sawacrow-Blogger
 
-4) Shopler Shop E-Commerce 2021 (JS, Jquery, CSS) 
+5) Shopler Shop E-Commerce 2021 (JS, Jquery, CSS) 
 https://github.com/sawacrow/ShoplerShopNewThemeJSON
 
-5) Designer Resume CV (CSS)
+6) Designer Resume CV (CSS)
 https://github.com/sawacrow/DesignerResumeCV
 
-6) The Comfort Zone (CSS)
+7) The Comfort Zone (CSS)
 https://codepen.io/sawacrow/pen/MWvNbgx
 
 
