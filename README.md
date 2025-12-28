@@ -101,7 +101,7 @@ https://github.com/sawacrow/nextjs-wordpress-rest/
 ## Front-end Projects
 
 1) E-Commerce 2026 ( Angular )
-https://github.com/cengizilhan/ecommorce-angular-public
+https://github.com/cengizilhan/ecommerce-angular-public
 
 2) Glitch Slider (Three.js, OpenGL)
 https://github.com/sawacrow/Distortion-Glitch-Effect-IMGSlider
