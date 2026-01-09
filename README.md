@@ -43,7 +43,7 @@ https://www.npmjs.com/package/scss-mapper
 ## Blog Pages / Articles
 
 1) Blog / Medium
-[https://medium.com/@sawacrow](https://medium.com/@cngzilhn)
+[https://medium.com/@cngzilhn](https://medium.com/@cngzilhn)
 
 2) Text Styles Best Practice | Typography SCSS File Structure ( **3.500+ Views** )
 Original post:  
