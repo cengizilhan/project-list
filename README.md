@@ -1,3 +1,4 @@
+
 # Project List
 
 ## Enterprise-Grade Projects 
@@ -48,35 +49,43 @@ https://www.npmjs.com/package/scss-mapper
 Original post:  
 https://medium.com/@cngzilhn/text-styles-best-practice-typography-scss-file-structure-24e8074ebfb4
 
-Shared by *JavaScript in Plain English*:
+	Shared by *JavaScript in Plain English*:
 https://medium.com/javascript-in-plain-english/text-styles-best-practice-typography-scss-file-structure-24e8074ebfb4
 
-4) Why --env Parameters Get Ignored in CI/CD npm Scripts — and How to Fix It
+3) Senior Frontend Roadmap: Beyond Frameworks
+Original post:  
+https://medium.com/@cngzilhn/senior-frontend-roadmap-beyond-frameworks-e49faed58dd4
+
+	Shared by *JavaScript in Plain English*:
+https://javascript.plainenglish.io/senior-frontend-roadmap-beyond-frameworks-e49faed58dd4
+
+
+4)  Reading Angular’s Mind Through an E-Commerce Project
+https://medium.com/@cngzilhn/reading-angulars-mind-through-an-e-commerce-project-f2ecd7d6db10
+
+5) Why --env Parameters Get Ignored in CI/CD npm Scripts — and How to Fix It
 https://medium.com/@cngzilhn/why-env-parameters-get-ignored-in-ci-cd-npm-scripts-and-how-to-fix-it-64a186d1be5a
 
-5) JavaScript Bellek Yönetimi: Heap ve Stack Optimizasyonu
+6) JavaScript Bellek Yönetimi: Heap ve Stack Optimizasyonu
 https://medium.com/@sawacrow/javascript-bellek-y%C3%B6netimi-heap-ve-stack-optimizasyonu-8606d66f3c10
 
-6) Odak: Task Değiştirme Kaosunu Yönetme
+7) Odak: Task Değiştirme Kaosunu Yönetme
 https://medium.com/@sawacrow/odak-task-de%C4%9Fi%C5%9Ftirme-kaosunu-y%C3%B6netme-d4d8dee61adb
 
-7) Before / After Nedir ve Hangi Durumlarda Kullanılır?
+8) Before / After Nedir ve Hangi Durumlarda Kullanılır?
 https://medium.com/@sawacrow/before-after-nedir-ve-hangi-durumlarda-kullan%C4%B1l%C4%B1r-002633bab249
 
-8) Modern Methods of Adding Icons in HTML
+9) Modern Methods of Adding Icons in HTML
 https://tasarlab.com/htmlde-ikon-eklemenin-modern-yontemleri/
 
-9) Creating Font Files with Nucleo
+10) Creating Font Files with Nucleo
 https://tasarlab.com/nucleo-ile-font-dosyasi-olusturmak/
 
-10) Creating Two-Column Input Placeholders
+11) Creating Two-Column Input Placeholders
 https://medium.com/@sawacrow/method-to-make-the-input-placeholder-multi-line-88fffb2485fa
 
-11) In Responsive Front-end Development – Modern Methods – 1
+12) In Responsive Front-end Development – Modern Methods – 1
 https://tasarlab.com/responsive-front-end-gelistirmede-modern-yontemler-1/
-
-12) Veri Getirme ve DOM’a Yansıtma Yöntemleri
-https://medium.com/@sawacrow/veri-getirme-ve-doma-yans%C4%B1tma-y%C3%B6ntemleri-4aa94ca6778c
 
 13) WordPress API Kullanarak Next.js Projesi Yapalım
 https://medium.com/@sawacrow/wordpress-api-kullanarak-next-js-projesi-yapal%C4%B1m-ef009875a45b
