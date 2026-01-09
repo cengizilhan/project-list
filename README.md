@@ -40,7 +40,7 @@ https://www.npmjs.com/package/scss-mapper
 
 
 
-## Blog Pages / Articles
+## Technical Writing
 
 1) Blog / Medium
 [https://medium.com/@cngzilhn](https://medium.com/@cngzilhn)
