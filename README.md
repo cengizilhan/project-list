@@ -124,19 +124,6 @@ https://github.com/cengizilhan/2024-yazilim-maas
 3) **Glitch Image Slider** (Three.js, WebGL)  
 https://github.com/sawacrow/Distortion-Glitch-Effect-IMGSlider
 
-### Earlier Front-end Projects
-
-- Sawacrow Blogger (React, WordPress API)  
-https://github.com/sawacrow/Sawacrow-Blogger
-
-- Shopler Shop E-Commerce (Vanilla JS, jQuery)  
-https://github.com/sawacrow/ShoplerShopNewThemeJSON
-
-- Designer Resume CV (CSS)  
-https://github.com/sawacrow/DesignerResumeCV
-
-- The Comfort Zone (CSS, CodePen)  
-https://codepen.io/sawacrow/pen/MWvNbgx
 
 ---
 
