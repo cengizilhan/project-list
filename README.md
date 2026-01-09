@@ -1,159 +1,193 @@
+# Portfolio
 
-# Project List
+Frontend-focused engineer with strong experience in build systems, tooling, design systems, and technical writing.  
+I build developer-facing tools, scalable frontend architectures, and production-ready solutions.
 
-## Enterprise-Grade Projects 
+---
 
-1) Linkedin Projects ( Your LinkedIn account must be logged in)
-https://www.linkedin.com/in/cengizilhan/details/projects/
+## Enterprise & Large-Scale Projects
 
-## Scripts / Libraries
+Selected long-term and enterprise-level projects developed for large teams and production environments.
 
-1) Typography SCSS Generator - Figma Plugin  ( **1800+ Users** )
-https://www.figma.com/community/plugin/1239294154051662580
-- https://github.com/cengizilhan/Typography-SCSS-Generator
+- **LinkedIn Projects** (login required)  
+  https://www.linkedin.com/in/cengizilhan/details/projects/
 
-2) Webpack Boilerplate
+---
+
+## Tools, Scripts & Libraries
+
+Developer tools, plugins, and boilerplates focused on frontend productivity and maintainability.
+
+1) **Typography SCSS Generator – Figma Plugin** (1800+ users)  
+https://www.figma.com/community/plugin/1239294154051662580  
+https://github.com/cengizilhan/Typography-SCSS-Generator
+
+2) **Webpack Boilerplate (Separate JS / SCSS)**  
 https://github.com/cengizilhan/webpack-boilerplate-seperate-js-scss
 
-3) Font Calculator - Figma Plugin
+3) **Font Calculator – Figma Plugin**  
 https://www.figma.com/community/plugin/1243685982553847829/Font-Calculator
 
-4) Html Gulp Boilerplate
+4) **HTML Gulp Boilerplate**  
 https://github.com/cengizilhan/HTML-Gulp-Boilerplate-Scss-Gsap.js-Sawacrow-
 
-## Npmjs Libraries
+---
 
-1) Webpack Concatjs Plugin  **1200+ downloads** ( stats ) https://npm-stat.com/charts.html?package=webpack-concatjs-plugin&from=2023-12-09&to=2027-12-09
-https://www.npmjs.com/package/webpack-concatjs-plugin 
+## NPM Packages
 
-2) Copy Paste Detector
+Open-source libraries published on npm, focused on build pipelines and developer experience.
+
+1) **webpack-concatjs-plugin** (1200+ downloads)  
+https://www.npmjs.com/package/webpack-concatjs-plugin
+
+2) **copy-paste-detector-js**  
 https://www.npmjs.com/package/copy-paste-detector-js
 
-3) Webpack Error 2 Json
-https://www.npmjs.com/package/webpack-error2json  
+3) **webpack-error2json**  
+https://www.npmjs.com/package/webpack-error2json
 
-4) Css Reference Finder
+4) **css-reference-finder**  
 https://www.npmjs.com/package/css-reference-finder
 
-5) SCSS Mapper
+5) **scss-mapper**  
 https://www.npmjs.com/package/scss-mapper
 
-
+---
 
 ## Technical Writing
 
-1) Blog / Medium
-[https://medium.com/@cngzilhn](https://medium.com/@cngzilhn)
+Technical articles focused on frontend architecture, CSS/SCSS systems, JavaScript internals, and developer workflows.
 
-2) Text Styles Best Practice | Typography SCSS File Structure ( **3.500+ Views** )
+### Selected Articles
+
+1) **Text Styles Best Practice | Typography SCSS File Structure** (3.500+ views)  
 Original post:  
-https://medium.com/@cngzilhn/text-styles-best-practice-typography-scss-file-structure-24e8074ebfb4
+https://medium.com/@cngzilhn/text-styles-best-practice-typography-scss-file-structure-24e8074ebfb4  
 
-	Shared by *JavaScript in Plain English*:
+Shared by *JavaScript in Plain English*:  
 https://medium.com/javascript-in-plain-english/text-styles-best-practice-typography-scss-file-structure-24e8074ebfb4
 
-3) Senior Frontend Roadmap: Beyond Frameworks
+2) **Senior Frontend Roadmap: Beyond Frameworks**  
 Original post:  
-https://medium.com/@cngzilhn/senior-frontend-roadmap-beyond-frameworks-e49faed58dd4
+https://medium.com/@cngzilhn/senior-frontend-roadmap-beyond-frameworks-e49faed58dd4  
 
-	Shared by *JavaScript in Plain English*:
+Shared by *JavaScript in Plain English*:  
 https://javascript.plainenglish.io/senior-frontend-roadmap-beyond-frameworks-e49faed58dd4
 
+### Other Articles
 
-4)  Reading Angular’s Mind Through an E-Commerce Project
+- Reading Angular’s Mind Through an E-Commerce Project  
 https://medium.com/@cngzilhn/reading-angulars-mind-through-an-e-commerce-project-f2ecd7d6db10
 
-5) Why --env Parameters Get Ignored in CI/CD npm Scripts — and How to Fix It
+- Why --env Parameters Get Ignored in CI/CD npm Scripts — and How to Fix It  
 https://medium.com/@cngzilhn/why-env-parameters-get-ignored-in-ci-cd-npm-scripts-and-how-to-fix-it-64a186d1be5a
 
-6) JavaScript Bellek Yönetimi: Heap ve Stack Optimizasyonu
+- JavaScript Bellek Yönetimi: Heap ve Stack Optimizasyonu  
 https://medium.com/@sawacrow/javascript-bellek-y%C3%B6netimi-heap-ve-stack-optimizasyonu-8606d66f3c10
 
-7) Odak: Task Değiştirme Kaosunu Yönetme
+- Odak: Task Değiştirme Kaosunu Yönetme  
 https://medium.com/@sawacrow/odak-task-de%C4%9Fi%C5%9Ftirme-kaosunu-y%C3%B6netme-d4d8dee61adb
 
-8) Before / After Nedir ve Hangi Durumlarda Kullanılır?
+- Before / After Nedir ve Hangi Durumlarda Kullanılır?  
 https://medium.com/@sawacrow/before-after-nedir-ve-hangi-durumlarda-kullan%C4%B1l%C4%B1r-002633bab249
 
-9) Modern Methods of Adding Icons in HTML
+- Modern Methods of Adding Icons in HTML  
 https://tasarlab.com/htmlde-ikon-eklemenin-modern-yontemleri/
 
-10) Creating Font Files with Nucleo
+- Creating Font Files with Nucleo  
 https://tasarlab.com/nucleo-ile-font-dosyasi-olusturmak/
 
-11) Creating Two-Column Input Placeholders
+- Creating Two-Column Input Placeholders  
 https://medium.com/@sawacrow/method-to-make-the-input-placeholder-multi-line-88fffb2485fa
 
-12) In Responsive Front-end Development – Modern Methods – 1
+- In Responsive Front-end Development – Modern Methods – 1  
 https://tasarlab.com/responsive-front-end-gelistirmede-modern-yontemler-1/
 
-13) WordPress API Kullanarak Next.js Projesi Yapalım
+- WordPress API Kullanarak Next.js Projesi Yapalım  
 https://medium.com/@sawacrow/wordpress-api-kullanarak-next-js-projesi-yapal%C4%B1m-ef009875a45b
 
-14) Javascript’de Url Search Parametrelerini Yönetme
+- Javascript’de Url Search Parametrelerini Yönetme  
 https://medium.com/@sawacrow/javascriptde-url-search-parametrelerini-y%C3%B6netme-4f742ae875f3
 
-## Chrome Extensions
-1) Image Fixer
-https://chromewebstore.google.com/detail/image-fixer-instantly-rep/plgcacjbflgmfgklldoliolleahhlgag
+---
 
-## Youtube Tutorials
-1) CSS Practices
-https://www.youtube.com/watch?v=w3Vho386cXs&list=PLDUL75YNAMAmEB9RAsLpvJN-Lwra_u-5t&ab_channel=sawacrow
+## Front-end Projects (Selected)
 
+Modern frontend applications built with contemporary frameworks and tooling.
+
+1) **E-Commerce Platform** (Angular, 2026)  
+https://github.com/cengizilhan/ecommerce-angular-public
+
+2) **Developer Salary Survey Dashboard** (Vue.js, 2024)  
+https://github.com/cengizilhan/2024-yazilim-maas
+
+3) **Glitch Image Slider** (Three.js, WebGL)  
+https://github.com/sawacrow/Distortion-Glitch-Effect-IMGSlider
+
+### Earlier Front-end Projects
+
+- Sawacrow Blogger (React, WordPress API)  
+https://github.com/sawacrow/Sawacrow-Blogger
+
+- Shopler Shop E-Commerce (Vanilla JS, jQuery)  
+https://github.com/sawacrow/ShoplerShopNewThemeJSON
+
+- Designer Resume CV (CSS)  
+https://github.com/sawacrow/DesignerResumeCV
+
+- The Comfort Zone (CSS, CodePen)  
+https://codepen.io/sawacrow/pen/MWvNbgx
+
+---
 
 ## Back-end Projects
 
-1) Shopler Express API 2022 (Express.js, Node.js)
+- Shopler Express API (Node.js, Express)  
 https://github.com/sawacrow/ExpressApiPublic
 
-2) Next JS by Wordpress Rest 2023 (Next.JS, WP API & TypeScript)
+- Next.js with WordPress REST API (TypeScript)  
 https://github.com/sawacrow/nextjs-wordpress-rest/
 
+---
 
-## Front-end Projects
+## Chrome Extensions
 
-1) E-Commerce 2026 ( Angular )
-https://github.com/cengizilhan/ecommerce-angular-public
+- **Image Fixer**  
+https://chromewebstore.google.com/detail/image-fixer-instantly-rep/plgcacjbflgmfgklldoliolleahhlgag
 
-2) Glitch Slider (Three.js, OpenGL)
-https://github.com/sawacrow/Distortion-Glitch-Effect-IMGSlider
+---
 
-3) 2024 Developer Salary Survey Results / 2024 Yazilimci Maaş Anketi Sonuçları ( Vue.JS, Tabulator.JS )
-https://github.com/cengizilhan/2024-yazilim-maas
+## CodePen Components
 
-4) Sawacrow Blogger 2022 (React.JS, Wordpress API)
-https://github.com/sawacrow/Sawacrow-Blogger
+Reusable UI components, CSS experiments, and animation demos.
 
-5) Shopler Shop E-Commerce 2021 (JS, Jquery, CSS) 
-https://github.com/sawacrow/ShoplerShopNewThemeJSON
-
-6) Designer Resume CV (CSS)
-https://github.com/sawacrow/DesignerResumeCV
-
-7) The Comfort Zone (CSS)
-https://codepen.io/sawacrow/pen/MWvNbgx
-
-
-
-## Codepen Projects - Components
-
-1) All Components / All Components
+- All Components Collection  
 https://codepen.io/collection/OLemmY
-2) Pulse Animated SVG File
+
+- Pulse Animated SVG  
 https://codepen.io/sawacrow/pen/qByabjx
-3) Hover Trigger Slide Change with Swiper  - Pagination ( Only CSS ) V2
+
+- Hover Trigger Slide Change with Swiper (CSS only)  
 https://codepen.io/sawacrow/pen/OJwVoPb
-4) Input Autocomplete Div with Only CSS
+
+- Input Autocomplete with Only CSS  
 https://codepen.io/sawacrow/pen/vYaVVLL
-5) Adaptive Navigation: Modal  for Mobile  and  Dropdown for Desktop
+
+- Adaptive Navigation (Mobile / Desktop)  
 https://codepen.io/sawacrow/pen/RwBJZoG
-6) GSAP Svg Animation
+
+- GSAP SVG Animation  
 https://codepen.io/sawacrow/pen/qByRBMd
-7) Gsap Video Animation Based By Scroll Progress
+
+- Scroll-Based GSAP Video Animation  
 https://codepen.io/sawacrow/pen/qBMxyWR
-8) Animated Swiper Pagination with Progress Indicator
+
+- Animated Swiper Pagination  
 https://codepen.io/sawacrow/pen/WNKrLVd
 
+---
 
+## Video Tutorials
 
+- CSS Practices (YouTube Playlist)  
+https://www.youtube.com/watch?v=w3Vho386cXs&list=PLDUL75YNAMAmEB9RAsLpvJN-Lwra_u-5t
