@@ -47,6 +47,7 @@ https://www.npmjs.com/package/scss-mapper
 2) Text Styles Best Practice | Typography SCSS File Structure ( **3.500+ Views** )
 Original post:  
 https://medium.com/@cngzilhn/text-styles-best-practice-typography-scss-file-structure-24e8074ebfb4
+
 Shared by *JavaScript in Plain English*:
 https://medium.com/javascript-in-plain-english/text-styles-best-practice-typography-scss-file-structure-24e8074ebfb4
 
