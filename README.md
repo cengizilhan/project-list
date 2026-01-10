@@ -14,6 +14,23 @@ Selected long-term and enterprise-level projects developed for large teams and p
 
 ---
 
+## Open Source Contributions
+
+Selected contributions to large open-source projects, focused on documentation clarity and real-world usage.
+
+- **Webpack – Documentation Contribution**  
+  Added clarification to the Webpack documentation based on real production usage, addressing a commonly confusing entry configuration scenario.  
+  The contribution was reviewed and merged by Webpack maintainers.
+
+  Live documentation:  
+  https://lnkd.in/dxH2kH57  
+
+  Pull Request:  
+  https://lnkd.in/d9kMAiz5
+
+
+---
+
 ## Tools, Scripts & Libraries
 
 Developer tools, plugins, and boilerplates focused on frontend productivity and maintainability.
