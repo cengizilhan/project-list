@@ -132,13 +132,16 @@ https://medium.com/@sawacrow/javascriptde-url-search-parametrelerini-y%C3%B6netm
 
 Modern frontend applications built with contemporary frameworks and tooling.
 
-1) **E-Commerce Platform** (Angular, 2026)  
+1) **Content Management System** (Angular, 2026)
+https://github.com/cengizilhan/cms-angular
+
+3) **E-Commerce Platform** (Angular, 2026)  
 https://github.com/cengizilhan/ecommerce-angular-public
 
-2) **Developer Salary Survey Dashboard** (Vue.js, 2024)  
+4) **Developer Salary Survey Dashboard** (Vue.js, 2024)  
 https://github.com/cengizilhan/2024-yazilim-maas
 
-3) **Glitch Image Slider** (Three.js, WebGL)  
+5) **Glitch Image Slider** (Three.js, WebGL)  
 https://github.com/sawacrow/Distortion-Glitch-Effect-IMGSlider
 
 
