@@ -71,6 +71,26 @@ https://www.npmjs.com/package/scss-mapper
 
 ---
 
+
+
+## Front-end Projects (Selected)
+
+Modern frontend applications built with contemporary frameworks and tooling.
+
+1) **Content Management System** (Angular, 2026)  
+https://github.com/cengizilhan/cms-angular
+
+3) **E-Commerce Platform** (Angular, 2026)  
+https://github.com/cengizilhan/ecommerce-angular-public
+
+4) **Developer Salary Survey Dashboard** (Vue.js, 2024)  
+https://github.com/cengizilhan/2024-yazilim-maas
+
+5) **Glitch Image Slider** (Three.js, WebGL)  
+https://github.com/sawacrow/Distortion-Glitch-Effect-IMGSlider
+
+---
+
 ## Technical Writing
 
 Technical articles focused on frontend architecture, CSS/SCSS systems, JavaScript internals, and developer workflows.
@@ -91,58 +111,7 @@ https://medium.com/@cngzilhn/senior-frontend-roadmap-beyond-frameworks-e49faed58
 Shared by *JavaScript in Plain English*:  
 https://javascript.plainenglish.io/senior-frontend-roadmap-beyond-frameworks-e49faed58dd4
 
-### Other Articles
 
-- Reading Angular’s Mind Through an E-Commerce Project  
-https://medium.com/@cngzilhn/reading-angulars-mind-through-an-e-commerce-project-f2ecd7d6db10
-
-- Why --env Parameters Get Ignored in CI/CD npm Scripts — and How to Fix It  
-https://medium.com/@cngzilhn/why-env-parameters-get-ignored-in-ci-cd-npm-scripts-and-how-to-fix-it-64a186d1be5a
-
-- JavaScript Bellek Yönetimi: Heap ve Stack Optimizasyonu  
-https://medium.com/@sawacrow/javascript-bellek-y%C3%B6netimi-heap-ve-stack-optimizasyonu-8606d66f3c10
-
-- Odak: Task Değiştirme Kaosunu Yönetme  
-https://medium.com/@sawacrow/odak-task-de%C4%9Fi%C5%9Ftirme-kaosunu-y%C3%B6netme-d4d8dee61adb
-
-- Before / After Nedir ve Hangi Durumlarda Kullanılır?  
-https://medium.com/@sawacrow/before-after-nedir-ve-hangi-durumlarda-kullan%C4%B1l%C4%B1r-002633bab249
-
-- Modern Methods of Adding Icons in HTML  
-https://tasarlab.com/htmlde-ikon-eklemenin-modern-yontemleri/
-
-- Creating Font Files with Nucleo  
-https://tasarlab.com/nucleo-ile-font-dosyasi-olusturmak/
-
-- Creating Two-Column Input Placeholders  
-https://medium.com/@sawacrow/method-to-make-the-input-placeholder-multi-line-88fffb2485fa
-
-- In Responsive Front-end Development – Modern Methods – 1  
-https://tasarlab.com/responsive-front-end-gelistirmede-modern-yontemler-1/
-
-- WordPress API Kullanarak Next.js Projesi Yapalım  
-https://medium.com/@sawacrow/wordpress-api-kullanarak-next-js-projesi-yapal%C4%B1m-ef009875a45b
-
-- Javascript’de Url Search Parametrelerini Yönetme  
-https://medium.com/@sawacrow/javascriptde-url-search-parametrelerini-y%C3%B6netme-4f742ae875f3
-
----
-
-## Front-end Projects (Selected)
-
-Modern frontend applications built with contemporary frameworks and tooling.
-
-1) **Content Management System** (Angular, 2026)  
-https://github.com/cengizilhan/cms-angular
-
-3) **E-Commerce Platform** (Angular, 2026)  
-https://github.com/cengizilhan/ecommerce-angular-public
-
-4) **Developer Salary Survey Dashboard** (Vue.js, 2024)  
-https://github.com/cengizilhan/2024-yazilim-maas
-
-5) **Glitch Image Slider** (Three.js, WebGL)  
-https://github.com/sawacrow/Distortion-Glitch-Effect-IMGSlider
 
 
 ---
