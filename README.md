@@ -23,10 +23,10 @@ Selected contributions to large open-source projects, focused on documentation c
   The contribution was reviewed and merged by Webpack maintainers.
 
   Live documentation:  
-  https://lnkd.in/dxH2kH57  
+https://webpack.js.org/configuration/entry-context/
 
   Pull Request:  
-  https://lnkd.in/d9kMAiz5
+https://github.com/webpack/webpack.js.org/pull/7739
 
 
 ---
