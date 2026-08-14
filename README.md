@@ -57,16 +57,19 @@ Open-source libraries published on npm, focused on build pipelines and developer
 1) **webpack-concatjs-plugin** (1200+ downloads)  
 https://www.npmjs.com/package/webpack-concatjs-plugin
 
-2) **copy-paste-detector-js**  
+2) **container-query-picture** (1700+ downloads)  
+https://www.npmjs.com/package/webpack-concatjs-plugin
+
+3) **copy-paste-detector-js**  
 https://www.npmjs.com/package/copy-paste-detector-js
 
-3) **webpack-error2json**  
+4) **webpack-error2json**  
 https://www.npmjs.com/package/webpack-error2json
 
-4) **css-reference-finder**  
+5) **css-reference-finder**  
 https://www.npmjs.com/package/css-reference-finder
 
-5) **scss-mapper**  
+6) **scss-mapper**  
 https://www.npmjs.com/package/scss-mapper
 
 ---
